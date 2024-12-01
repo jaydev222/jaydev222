@@ -21,7 +21,6 @@ I'm always open to improve exponentially<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=jaydev222&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
----
 [![](https://visitcount.itsvg.in/api?id=jaydev222&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
