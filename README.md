@@ -1,6 +1,6 @@
 💫 **About Me**:
 
-I'm always open to improve exponentially<br>
+I'm a 22 years old Software Developer, i'm always open to improve <br>
 
 ---
 💻 **Tech Stack**:
